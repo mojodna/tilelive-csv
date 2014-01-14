@@ -1,0 +1,16 @@
+{
+  "name": "tilelive-csv",
+  "version": "0.0.0",
+  "description": "",
+  "tilelive": {
+    "protocols": [
+      "csv+file:"
+    ]
+  },
+  "main": "index.js",
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "mapnik": "https://github.com/mojodna/node-mapnik/archive/vector-layers.tar.gz"
+  }
+}
